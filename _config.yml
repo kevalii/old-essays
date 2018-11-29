@@ -17,8 +17,8 @@ title: Old essays
 email: alexrankine@college.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site containing some old essays of mine. Read with caution.
-baseurl: "http://kevalii.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://kevalii.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alexrancc
 github_username:  kevalii
 excerpt_separator: "<!--more-->"
