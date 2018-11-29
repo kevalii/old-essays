@@ -1,0 +1,183 @@
+---
+layout: post
+title:  scotus opinion
+date:   2018-11-27 16:43:39 -0500
+category: 2016
+---
+Cite as: 600 U. S. \_\_\_ (2016)
+
+**Opinion of the Court**
+
+**SUPREME COURT OF THE UNITED STATES**
+
+No. 14\--8570
+
+ZUBIK V. BURWELL
+<!--more-->
+Argued: March 23rd, 2016; Decided: April 3rd, 2016
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE
+THIRD CIRCUIT
+
+\[April 4th, 2016\]
+
+JUSTICE RANKINE delivered the opinion of the Court.
+
+Petitioner David A. Zubik oversees the Roman Catholic Diocese of
+Pittsburgh, a religiously affiliated nonprofit institution whose female
+employees, under the Affordable Health Care Act passed in 2010, are
+guaranteed access to contraceptives and other forms of preventative care
+by the group plan if they are capable of reproduction. The act, as
+enforced by the Department of Health and Human Services, allows an
+exception for religiously affiliated nonprofit organizations to refuse
+to provide this contraceptive aid on the grounds of their beliefs,
+requiring them to notify their insurance providers or the federal
+government in order to have the third party provide this care
+separately. The petitioner argues that this process constitutes a
+violation of the Religious Freedom Restoration Act (RFRA), which holds
+that the government may not "substantially burden a person's exercise of
+religion even if the burden results from a rule of general
+applicability." The diocese's role in facilitating this process of
+exemption, according to the petitioner, would involve them in providing
+preventative care for their employees and thus violate their religious
+beliefs against their will. Thus, the petitioner, on behalf of various
+other petitioners claiming similar arguments in class-action suit, filed
+a civil claim against the defendant Sylvia Burwell, the Secretary of
+Health and Human Services on Section C of the Religious Freedom
+Restoration Act. The defendant claims that this exemption provided to
+religiously affiliated nonprofit organizations under the HHS regulations
+of the Affordable Healthcare Act does not violate RFRA in that this
+exemption has been proved to be "the least restrictive means of
+furthering \[a\] compelling governmental interest" under Section B of
+RFRA, with that being the protection of "women's interest in full and
+equal health coverage." In full, the argument of the petitioners,
+according to the defendant, has no merit in that the petitioner's
+religious objections to the facilitation of the exemption process
+conflicts with this aforementioned interest of the government when it is
+the least restrictive means of advancing such.
+
+The case, involving the federal government as a litigant, was first
+brought to the U.S. District Court for the Western District of
+Pennsylvania and was trialed by the Honorable Joy Flowers Conti and
+Honorable Arthur J. Schwab. The district court, issuing a preliminary
+injunction and later a permanent injunction, ruled in favor of the
+petitioner on November 21st, 2013, arguing that "\[the appellees\] ...
+succeed on the merits of proving that their right to freely exercise
+their religion has been substantially burdened by the 'accommodation'
+which requir\[ing\] \[one\] to sign a form which thereby
+facilitates/initiates the provision of contraceptive products, services,
+and counseling" contrary to their religious beliefs. The defendant then
+appealed the decision to the U.S. Court of Appeals for the Third
+District, with arguments being brought forth before the Court on
+November 19th, 2014. The appellate court formally reversed the decision
+made by the district court, providing in its opinion issued February
+11th, 2015 that the act of filing their religious objections with the
+insurer or the federal government cannot make them complicit in the act
+of providing such preventative care services by the third party and
+would not impose a legitimately substantial burden on their religious
+beliefs. The Court explained the basis for this notion in stating that
+"free exercise jurisprudence instructs \[them\] to examine the act the
+appellees must perform---not the effect of that act---to see if it
+burdens substantially the appellees' religious exercise." Thus, the
+court "conclude\[d\] that the appellees have not shown a likelihood of
+success on the merits of their RFRA claim, based on \[this\]
+determination, \[and that \] the question of whether the accommodation
+is the least restrictive means of furthering a compelling governmental
+interest" would therefore not be a question relevant to the case. The
+petitioner then filed an appeal to the Court on April 15th, 2015 for
+review of the appellate court's decision. On November 6th, 2015, the
+Court filed a writ of certiorari ordering the review of the decision
+made in the U.S. Court of Appeals for the Third District, specifically
+concerning the question brought by the petitioner regarding whether the
+preventive care accommodation provided by ACA and the Department of
+Health and Human Services for nonprofit organizations is the least
+restrictive means of advancing the government's interests while
+preserving the religious freedom of said organizations. Oral argument by
+both litigants was provided on the 23rd of March, conference on the 1st
+of April, with the final decision being reached in a unanimous vote on
+the 3rd of April.
+
+The question provided concerns primarily concerns the free exercise
+clause of the First Amendment of the Constitution in that the petitioner
+charges that the discussed accommodation under ACA violates his freedom
+to exercise his religious beliefs. Specifically, the petitioner argues
+that applying for this accommodation by filing the appropriate forms
+with the insurer or federal government makes them complicit in the
+process of providing preventive healthcare to the employees of the
+diocese, which in turn forces them to violate their religious beliefs as
+a result of the federal government's contrary interests (the HHS
+mandate). The petitioner thus sought to challenge this accommodation
+under RFRA under the point that the federal government has not proven
+the exemption provision to be the least restrictive means of advancing
+its interests here against his religious freedom guaranteed in the free
+exercise clause of the First Amendment.
+
+In regards to this question of whether the petitioner's free exercise
+liberties are indeed substantially burdened by the exemption provided by
+the defendant to the preventative care that must be provided in group
+plans in ACA, the Court here defers to the precedent established in
+*Burwell v. Hobby Lobby Stores* (2010), where it was held that
+for-profit corporations are subject to the same preventative care
+exemptions that HHS provides to religiously-affiliated nonprofit
+corporations. The opinion of the Court stated that forcing such
+corporations to provide preventative healthcare for its employees that
+its owners object provides a substantial burden on their religious
+freedom while also holding that applying the same HHS exemption mandate
+to these corporations would be the least restrictive means of
+maintaining the government's compelling interest in ensuring access to
+preventative healthcare under RFRA. The Court here acknowledges that the
+exemption process that nonprofits (such as that under the supervision of
+the plaintiff) undergo would make their claims of a substantial burden
+being placed on their religious freedom legitimate. The U.S. Appeals
+Court for the Third District was ultimately misguided in its decision
+that the plaintiffs cannot show that the exemption substantially
+burdened their religious beliefs, as the judiciary ultimately has no
+basis to judge whether a particular act substantially burdens an
+individual's religious beliefs. Only the stated principles of that
+individual, as declared in *Hobby Lobby Stores*, are responsible for
+determining that. However, the judiciary *does* has a basis in the First
+Amendment and the Religious Freedom Restoration Act to determine whether
+the government has pursued the least restrictive means of pursuing a
+compelling interest for society against one's religious beliefs.
+
+The Court ultimately maintains its position in the earlier decision that
+the HHS contraceptive mandate is indeed the least restrictive means of
+accomplishing the government's stated interest in ensuring women's
+access to preventative care and services. Such an interest relates to
+the private, consensual sexual conduct of women, which, as the ACLU
+stated in its brief, is further related to the Court's decision in
+*Lawrence v. Texas* (2003) where it held that such conduct, regardless
+of sexual orientation, was a liberty protected under the guarantee of
+due process in Fifth and Fourteenth Amendments. The Court also defers to
+the decision made in *Griswold v. Connecticut* (1965), where it held had
+upheld the use of contraceptives as part of the same right to privacy of
+sexual conduct on the same constitutional basis. Since the Court has
+clearly recognized such a liberty for women to manage their own private
+sexual conduct, which includes their decision to use such preventative
+care and services, the federal government thus has a compelling interest
+in ensuring that women have access to the appropriate healthcare to
+manage such sexual conduct. RFRA holds that the federal government
+advance this interest while also considering the religious objections of
+plaintiff to women being provided with such healthcare, which the HHS
+exemption mandate, again, is indeed the least restrictive means of doing
+so, as it initially held in *Hobby Case*.
+
+\* \* \*
+
+The petitioner remains mandated to facilitate the aforementioned
+exemption process in order to allow insurers to provide the appropriate
+preventative healthcare services to his employees in the diocese. Thus,
+the decision of the U.S. Court of Appeals, except in regards to its
+understanding of substantial burdens on free exercise of religion, is
+
+*Affirmed.*
+
+History:
+[[http://www.scotusblog.com/wp-content/uploads/2015/11/zubik-geneva-op-below.pdf]{.underline}](http://www.scotusblog.com/wp-content/uploads/2015/11/zubik-geneva-op-below.pdf)
+
+RFRA text:
+[[https://www.law.cornell.edu/uscode/text/42/2000bb%E2%80%931]{.underline}](https://www.law.cornell.edu/uscode/text/42/2000bb%E2%80%931)
+
+Misc info:
+[[https://www.oyez.org/cases/2015/14-1418]{.underline}](https://www.oyez.org/cases/2015/14-1418),
+[[http://www.scotusblog.com/case-files/cases/zubik-v-burwell/]{.underline}](http://www.scotusblog.com/case-files/cases/zubik-v-burwell/)
